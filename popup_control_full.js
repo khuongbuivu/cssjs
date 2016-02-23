@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://dichvudocung.com' target='_blank'><img src='https://jgoogle.googlecode.com/svn/trunk/dao-tao-seo-chuyen-sau.jpg' width='500px'/>Đồ Cúng Trọn Gói</a>. dichvudocung.com. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://dichvudocung.com' target='_blank'><img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDjAYvvB3TJROYFGptd8lM-c4s07ab-PP9wYrZ42-ubyYHWbSUXQ' width='500px'/>Đồ Cúng Trọn Gói</a>. dichvudocung.com. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
