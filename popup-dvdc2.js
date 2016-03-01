@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://dieukhacninhlong' target='_blank'><img src='https://lh6.googleusercontent.com/-PJPwDddP1Uc/VtXHJ_ZafFI/AAAAAAAAAvM/UdZCsHB5X18/w600-h400-no/poup-dichvudocung.png' width='500px'/>Gọi ngay để đặt đồ cúng trọn gói</a>. LH: 0946 27 4444. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://dichvudocung.com' target='_blank'><img src='https://lh6.googleusercontent.com/-PJPwDddP1Uc/VtXHJ_ZafFI/AAAAAAAAAvM/UdZCsHB5X18/w600-h400-no/poup-dichvudocung.png' width='500px'/>Gọi ngay để đặt đồ cúng trọn gói</a>. LH: 0946 27 4444. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
